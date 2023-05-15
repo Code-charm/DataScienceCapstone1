@@ -1,6 +1,6 @@
 # Flight Cancellation Prediction 
 
-![alt text](Flight Travel Image.png)
+![alt text](Flight_Image.jpg)
 
 *Quick Fly (QF) is a US based air cargo delivery service provider.  Recently, it was brought to the attention of the leadership that QF has been paying higher than industry average claims for air cargo shipment delays caused by flight cancellation, mostly for shipments departing Los Angeles International Airport (LAX).  We need to to evaluate and identify the elements that impact the likelihood of flight cancellation out of LAX, so that QF can try to avoid those elements to ensure an improved on-time-delivery rate.*
 
